@@ -1,6 +1,9 @@
 # depslib dependency file v1.0
-1604846583 source:d:\程設1\robot\main.cpp
+1604915350 source:d:\程設1\robot\main.cpp
 	<iostream>
 	<fstream>
 	<stdlib.h>
+
+1604857973 source:d:\程設1\robot\function.cpp
+	<iostream>
 
